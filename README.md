@@ -6,13 +6,15 @@ is for personal use.
 
 ## Description
 
-<summary>
+The Cardiac Arrhythmia dataset, downloaded from [archive.ics.uci.edu/ml/datasets/Arrhythmia](archive.ics.uci.edu/ml/datasets/Arrhythmia), is a classification dataset with 279 features and 452 instances.
 
 ## Use
 
-<additional information>
+The goal of this project is to feature and model select on this classification dataset in order to predict the class of cardiac arrhythmia with the lowest test error possible.
 
 ## Data
+
+###### *Pulled from archive.ics.uci.edu/ml/datasets/Arrhythmia*
 
 1. Title: Cardiac Arrhythmia Database
 
