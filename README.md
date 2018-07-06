@@ -1,4 +1,8 @@
-# Overview
+# Heart Arrhythmia Classification
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+## Overview
 
 This is the main directory for the data science project: `feature_selection_573`.
 The data science project `feature_selection_573` is for the purpose ofanalysis> and
@@ -8,7 +12,7 @@ is for personal use.
 
 The Cardiac Arrhythmia dataset, downloaded from [archive.ics.uci.edu/ml/datasets/Arrhythmia](archive.ics.uci.edu/ml/datasets/Arrhythmia), is a classification dataset with 279 features and 452 instances.
 
-## Use
+## Usage
 
 The goal of this project is to feature and model select on this classification dataset in order to predict the class of cardiac arrhythmia with the lowest test error possible.
 
